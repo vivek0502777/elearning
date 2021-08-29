@@ -1,0 +1,9 @@
+Django
+Pillow
+image
+django-braces
+django-embed-video
+django-memcache-status
+djangorestframework
+python-memcached
+requests
